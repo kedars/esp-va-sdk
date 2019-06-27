@@ -1,5 +1,6 @@
-For DSPG's DBMD5P DSP firmware please refer to license at board_support_pkgs/lyratd_dspg/dspg_fw/docs/license.pdf
-For reset of the components please refer to below license
+
+- The contents of the directory board_support_pkgs/lyratd_dspg/dspg_fw/, required for working with the LyraTD-DSPG board, are governed by the licensing terms here: board_support_pkgs/lyratd_dspg/dspg_fw/docs/license.pdf.
+- For the rest of the components of the ESP-VA-SDK, please refer to the licensing terms below.
 
 ESPRESSIF MIT License
 
